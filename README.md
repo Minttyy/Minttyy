@@ -14,6 +14,6 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
 
 
-## #30NitesOfCode @ Codédex:
-  [Check out my progress!](https://www.codedex.io/@smin199932947/30-nites-of-code)  
-  ![@smin199932947 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=smin199932947)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@minttyy89/30-nites-of-code)  
+  ![@minttyy89 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=minttyy89)
