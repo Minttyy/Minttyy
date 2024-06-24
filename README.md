@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on an application for Quotes and Achievements
 - 🌱 I’m currently learning ASP.NET Core
 - 👯 I’m looking to collaborate on self development applications 
-- 🤔 I’m looking for help with any projects that I can practice my coding skills in
+- 🤔 I’m looking to help with any projects that I can practice my coding skills in. 
 
 ## Coding Languages 🌱
 
