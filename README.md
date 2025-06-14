@@ -16,4 +16,3 @@
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@minttyy89/30-nites-of-code)  
-  ![@minttyy89 #30NitesOfCode](https://www.codedex.io/@minttyy89/30-nites-of-code)
