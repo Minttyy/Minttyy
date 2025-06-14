@@ -16,4 +16,4 @@
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@minttyy89/30-nites-of-code)  
-  ![@minttyy89 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=minttyy89)
+  ![@minttyy89 #30NitesOfCode](https://www.codedex.io/@minttyy89/30-nites-of-code)
