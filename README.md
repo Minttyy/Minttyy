@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on an application for Quotes and Achievements
+- 🔭 I’m currently working on an application from a [guide](https://learn.microsoft.com/en-us/training/modules/build-web-api-minimal-spa/3-exercise-create-front-end?tabs=visual-studio-code) on Microsoft
 - 🌱 I’m currently learning ASP.NET Core
 - 👯 I’m looking to collaborate on self development applications 
 - 🤔 I’m looking to help with any projects that I can practice my coding skills in. 
